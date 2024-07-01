@@ -208,3 +208,13 @@
   );
   transition: all 0.475s;
 }
+
+.button a {
+  color: white; /* Muda a cor do texto para branco */
+  text-decoration: none; /* Remove o sublinhado */
+}
+
+.button a:hover {
+  color: white; /* Mantém a cor branca ao passar o mouse */
+  text-decoration: none; /* Mantém sem sublinhado ao passar o mouse */
+}
