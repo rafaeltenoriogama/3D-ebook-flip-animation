@@ -48,7 +48,7 @@
   overflow: hidden;
   color: var(--font-color);
   background-color: var(--mobile-bg);
-  box-shadow: 36px 36px 50px 15px #eed7d1d1;
+  box-shadow: 36px 36px 50px 15px #33704ad1;/* original #eed7d1d1 */
 
   .notification-header {
     position: fixed;
